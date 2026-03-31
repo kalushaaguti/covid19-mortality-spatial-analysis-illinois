@@ -112,9 +112,9 @@ Data Extraction → Data Cleaning → Rate Calculation → Spatial Analysis → 
 ---
 
 ## Map Samples
-![LISA Map](maps/Cluster Map of COVID-19 Mortality.jpg)
-![Mortality vs Poverty](maps/Mortality & Percent in Poverty.jpg)
-![Mortality vs SVI](maps/Mortality vs SVI.jpg)
+![LISA Map](maps/Cluster_Map_of_COVID19_Mortality.jpg)
+![Mortality vs Poverty](maps/Mortality_Percent_in_Poverty.jpg)
+![Mortality vs SVI](maps/Mortality_SVI.jpg)
 
 ## Author
 Kalusha Aguti  
